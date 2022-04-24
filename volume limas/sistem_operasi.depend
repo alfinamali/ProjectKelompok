@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650335617 source:c:\users\alfin\documents\sistem_operasi\main.c
+	<stdio.h>
+	<stdlib.h>
+
